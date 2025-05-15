@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ahmed4Devs
 - ⚡ Fun fact: I am a self-taught Programmer
-- 👀 I’m interested in Web Development. But sometimes Playing with C++ and Java.
-- 📫 How to reach me @ ahmed4devs@gmail.com
+- 👀 I’m interested in Web Development (HTML, CSS (Tailwind & Bootstrap) and JavaScript/TypeScript (Vanilla & ReactJS).
 - 💻 starting this account on 1st-Feb-2024;
