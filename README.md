@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmed4Devs
 - ⚡ Fun fact: I am a self-taught Programmer
 - 👀 I’m interested in Web Development (Fullstack)
-- 🖼️ Frontend -> (HTML, CSS (Tailwind & Bootstrap) and JavaScript/TypeScript (Vanilla & ReactJS).
+- 🖼️ Frontend -> HTML, CSS (Tailwind & Bootstrap) and JavaScript/TypeScript (Vanilla & ReactJS).
 - 🖥️ Backend -> Nextjs and PHP/Laravel.
